@@ -11,7 +11,7 @@ General Languages and versions
 
 
 ## operating instructions
-    •	Logistic regression object in scikit learn has the following hyper parameters
+   ### Logistic regression object in scikit learn has the following hyper parameters
     •penalty='l2',
     •dual=False,
     •tol=0.0001,
@@ -28,7 +28,22 @@ General Languages and versions
     •n_jobs=None,
     •l1_ratio=None,
                     
-
+   ### my parameters
+    •penalty='l2',
+    •dual=False,
+    •tol=0.0001,
+    •C=1.21,
+    •fit_intercept=True,
+    •intercept_scaling=1,
+    •class_weight=None,
+    •random_state=None,
+    •solver='lbfgs',
+    •max_iter=200,
+    •multi_class='auto',
+    •verbose=0,
+    •warm_start=False,
+    •n_jobs=None,
+    •l1_ratio=None,
 
 ## copyright and licensing information
 
