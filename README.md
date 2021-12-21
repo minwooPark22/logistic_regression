@@ -7,11 +7,7 @@ This repo contains informations about logistic_regression by sklearn
 General Languages and versions
 
     •	Python version: 3.10.0
-    •	Django version: 1.11.9
-    •	OpenCV version: 3.4.0
     •	Sklearn version: 1.0.1
-    •	Mysql Database
-
 
 operating instructions
 
