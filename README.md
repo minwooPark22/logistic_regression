@@ -43,7 +43,7 @@ If you do not have sklearn packages then execute the sentence to install sklearn
     •fit_intercept=True,
     •intercept_scaling=1,
     •class_weight=None,
-    •random_state=None,
+    •random_state=0,    //changed
     •solver='lbfgs',
     •max_iter=200,   // changed
     •multi_class='auto',
