@@ -32,13 +32,13 @@ General Languages and versions
     •penalty='l2',
     •dual=False,
     •tol=0.0001,
-    •C=1.21,
+    •C=1.21,   // changed
     •fit_intercept=True,
     •intercept_scaling=1,
     •class_weight=None,
     •random_state=None,
     •solver='lbfgs',
-    •max_iter=200,
+    •max_iter=200,   // changed
     •multi_class='auto',
     •verbose=0,
     •warm_start=False,
